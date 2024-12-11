@@ -62,10 +62,10 @@
   ```
 
 #### 2. 프로젝트 설명 및 개발 환경
-__개발 환경__ :
-- python : 3.8.3
-- jupyter notebook : 6.0.3
-- mlxtend : 0.17.3
+- 개발 환경
+  - python : 3.8.3
+  - jupyter notebook : 6.0.3
+  - mlxtend : 0.17.3
 
 #### 3. 수행 결과
   - 상위 10개 규칙 결과
